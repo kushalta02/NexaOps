@@ -1,0 +1,4 @@
+PROJECT_NAME="NexaOps"
+ENIVIRONMENT="development"
+VERSION="0.1.0"
+DEBUG=True
